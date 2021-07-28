@@ -1,0 +1,2 @@
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Icons/dos.PNG
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Icons/vbox.ico
