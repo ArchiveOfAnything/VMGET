@@ -1,0 +1,50 @@
+00:00:04.315615 VirtualBox VM 6.1.20 r143896 win.amd64 (Apr 20 2021 05:23:38) release log
+00:00:04.315622 Log opened 2021-07-22T17:42:56.751446500Z
+00:00:04.315623 Build Type: release
+00:00:04.315626 OS Product: Windows 10
+00:00:04.315627 OS Release: 10.0.15063
+00:00:04.315628 OS Service Pack: 
+00:00:04.363379 DMI Product Name: Aspire Z3770
+00:00:04.368054 DMI Product Version:         
+00:00:04.368066 Firmware type: BIOS
+00:00:04.368072 Host RAM: 6029MB (5.8GB) total, 2437MB (2.3GB) available
+00:00:04.368074 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+00:00:04.368075 Process ID: 15348
+00:00:04.368075 Package type: WINDOWS_64BITS_GENERIC
+00:00:04.369052 Installed Extension Packs:
+00:00:04.369089   Oracle VM VirtualBox Extension Pack (Version: 6.1.20 r143896; VRDE Module: VBoxVRDP)
+00:00:04.370358 Console: Machine state changed to 'Starting'
+00:00:04.370581 Qt version: 5.6.2
+00:00:04.374047 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.540486 SUP: seg #0: R   0x00000000 LB 0x00001000
+00:00:04.540512 SUP: seg #1: R X 0x00001000 LB 0x0010a000
+00:00:04.540518 SUP: seg #2: R   0x0010b000 LB 0x0004a000
+00:00:04.540523 SUP: seg #3: RW  0x00155000 LB 0x00013000
+00:00:04.540528 SUP: seg #4: R   0x00168000 LB 0x0000e000
+00:00:04.540532 SUP: seg #5: RW  0x00176000 LB 0x00003000
+00:00:04.540537 SUP: seg #6: R   0x00179000 LB 0x0000b000
+00:00:04.540541 SUP: seg #7: RWX 0x00184000 LB 0x00002000
+00:00:04.540546 SUP: seg #8: R   0x00186000 LB 0x00007000
+00:00:04.541702 SUP: Loaded VMMR0.r0 (C:\Program Files\Oracle\VirtualBox\VMMR0.r0) at 0xXXXXXXXXXXXXXXXX - ModuleInit at XXXXXXXXXXXXXXXX and ModuleTerm at XXXXXXXXXXXXXXXX using the native ring-0 loader
+00:00:04.541743 SUP: VMMR0EntryEx located at XXXXXXXXXXXXXXXX and VMMR0EntryFast at XXXXXXXXXXXXXXXX
+00:00:04.541748 SUP: windbg> .reload /f C:\Program Files\Oracle\VirtualBox\VMMR0.r0=0xXXXXXXXXXXXXXXXX
+00:00:04.542755 Guest OS type: 'DOS'
+00:00:04.543291 fHMForced=true - No raw-mode support in this build!
+00:00:04.546467 File system of 'C:\Users\Иван\VirtualBox VMs\VMGET\MS DOS\Snapshots' (snapshots) is unknown
+00:00:04.546492 File system of 'C:\Users\Иван\VirtualBox VMs\VMGET\MS DOS\msdos.vdi' is ntfs
+00:00:04.547633 File system of 'C:\Users\Иван\VirtualBox VMs\VMGET\MS DOS\MS DOS_DATA.vdi' is ntfs
+00:00:04.548361 VMSetError: F:\tinderbox\win-6.1\src\VBox\Main\src-client\ConsoleImpl2.cpp(2378) int __cdecl Console::i_configConstructorInner(struct UVM *,struct VM *,class util::AutoWriteLock *); rc=VERR_NOT_FOUND
+00:00:04.548405 VMSetError: There is no USB controller enabled but there
+00:00:04.548405 is at least one USB storage device configured for this VM.
+00:00:04.548406 To fix this problem either enable the USB controller or remove
+00:00:04.548406 the storage device from the VM
+00:00:04.548629 Constructor failed with rc=VERR_NOT_FOUND pfnCFGMConstructor=00007ff8ebae1c20
+00:00:04.549117 ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={872da645-4a9b-1727-bee2-5585105b9eed} aComponent={ConsoleWrap} aText={There is no USB controller enabled but there
+00:00:04.549154 is at least one USB storage device configured for this VM.
+00:00:04.549154 To fix this problem either enable the USB controller or remove
+00:00:04.549155 the storage device from the VM (VERR_NOT_FOUND)}, preserve=false aResultDetail=-78
+00:00:04.549316 Console: Machine state changed to 'PoweredOff'
+00:00:04.615761 Power up failed (vrc=VERR_NOT_FOUND, rc=E_FAIL (0X80004005))
+00:00:05.116754 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:00:05.116837 ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={4680b2de-8690-11e9-b83d-5719e53cf1de} aComponent={DisplayWrap} aText={The console is not powered up}, preserve=false aResultDetail=0
+00:00:05.117117 GUI: Aborting startup due to power up progress issue detected...
