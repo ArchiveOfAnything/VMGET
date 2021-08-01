@@ -1,2 +1,4 @@
 MS-DOS
 Virtual Box
+Microsoft VisualStudio
+AnyDesk
