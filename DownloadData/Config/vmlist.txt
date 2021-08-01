@@ -1,4 +1,3 @@
-MS-DOS
-Virtual Box
-Microsoft VisualStudio
-AnyDesk
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8e72847d4b6fb2c35a0ed52b6a73553383ce9b1e9cff0927860fc84d244eba5
+size 348
