@@ -1,2 +1,3 @@
-https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Icons/dos.PNG
-https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Icons/vbox.ico
+version https://git-lfs.github.com/spec/v1
+oid sha256:88bcbbf8be0045834d50b686503b5001d609ecad435f8d525f2f2dc44ad409f4
+size 358
