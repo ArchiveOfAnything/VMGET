@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c57676d9d8a166c054cb7e55e6df0ed43e1d67cddbdd5d49036439ae0a4e5950
-size 2275
+https://github.com/ArchiveOfAnything/VMGET/blob/main/DownloadData/ZipVMs/MS%20DOS.zip
+https://download.virtualbox.org/virtualbox/6.1.24/VirtualBox-6.1.24-145767-Win.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vs_community__1262872933.1619176056.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vs_professional__1262872933.1619176056.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vs_enterprise__1262872933.1619176056.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vs_community__1262872933.1619176056%202022%20ver.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vs_professional__1262872933.1619176056%202022%20ver.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vs_enterprise__1262872933.1619176056%202022%20ver.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/VSCodeUserSetup-x64-1.58.2.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/VSCode-win32-x64-1.58.2.zip
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/UnityHubSetup.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/AnyDesk.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/TLauncher-2.8-Installer-0.8.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/paint.net.4.3.2.install.x86.zip
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/OpenVPN-2.5.4-I601-x86.msi
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/IpTvPlayer-setup.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/GoogleEarthProSetup.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vac466.zip
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/BetterDiscord-Windows.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/bee2setup.zip
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/updateAnyGet.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/updateAnyGet_Beta.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/twmx_online_setup_.exe
+https://github.com/zealdocs/zeal/releases/download/v0.6.1/zeal-0.6.1-windows-x64.msi
