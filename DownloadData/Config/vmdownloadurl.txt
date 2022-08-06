@@ -18,7 +18,8 @@ https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/GoogleEart
 https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/vac466.zip
 https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/BetterDiscord-Windows.exe
 https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/bee2setup.zip
-https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/updateAnyGet.exe
-https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/updateAnyGet_Beta.exe
 https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/Apps/twmx_online_setup_.exe
 https://github.com/zealdocs/zeal/releases/download/v0.6.1/zeal-0.6.1-windows-x64.msi
+https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/updateAnyGet.exe
+https://github.com/ArchiveOfAnything/VMGET/raw/main/DownloadData/updateAnyGet_Beta.exe
