@@ -18,7 +18,8 @@ Google Earth
 Virtual Audio Cable
 BetterDiscord
 BEE2 Portal 2
-Update ANYGET
-Update ANYGET BETA
 WebMakeX
 Zeal Docs X64
+Python 3.10.6
+Update ANYGET
+Update ANYGET BETA
